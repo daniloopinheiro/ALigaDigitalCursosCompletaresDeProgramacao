@@ -43,3 +43,10 @@ foi criada visando atender a demanda de muitos que, infelizmente, não possuem t
 <img height="40" src=https://s3.amazonaws.com/thinkific-import/220759/OSkIXgBSMGsQ7XYX6bsI_LOGOTIPO-CODER-FUNDOTRANSPARENTE-PRETA.png /><p>
 
 A [Cod3r](https://www.cod3r.com.br/) se preocupa com o seu futuro e oferece os melhores cursos nas principais tecnologias com excelência. Os nossos professores e métodos te darão a base e os fundamentos para você aprender os porquês e trilhar os caminhos do sucesso.
+
+<br>
+<img height="80" src=https://cdn-images-1.medium.com/fit/c/120/120/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg /><p>
+
+[Rocketseat](https://app.rocketseat.com.br/)
+mais do que uma plataforma de educação em tecnologia, somos uma comunidade incrível de programadores em busca do próximo nível. Em um mundo onde a informação fica obsoleta cada vez mais rápido, velocidade de aprendizado é a chave para o sucesso.
+Por isso a Rocketseat oferece através de uma plataforma inteligente e metodologia prática, além de comunidade, eventos, conteúdo e conexão com o mercado de trabalho, todas as ferramentas que você precisa para masterizar no menor tempo possível as tecnologias mais modernas de desenvolvimento web e mobile, e dessa forma avançar para o próximo nível como programador.
