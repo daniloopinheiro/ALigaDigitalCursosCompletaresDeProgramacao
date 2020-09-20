@@ -33,3 +33,13 @@ somos a maior comunidade educacional gratuita para desenvolvedores de software a
 
 A [School Of Net](https://www.schoolofnet.com/)
 foi criada visando atender a demanda de muitos que, infelizmente, não possuem tempo ou recursos suficientes para investirem em cursos técnicos na área de desenvolvimento em Internet. A SON vem viabilizar tal necessidade oferecendo cursos de alta qualidade, totalmente online.
+
+<br>
+<img height="70" src=https://programadorbr.com/Images/Blue.svg /><p>
+
+[Programadorbr](https://programadorbr.com/#igor), Empreendedor e Criador de conteúdo com mais de 2.5 Milhões de views no Youtube. Um cara apaixonado por tecnologia e empreendedorismo. Seu maior objetivo é fazer com que mais pessoas vejam programação como a melhor opção de carreira que existe, e entendam que o código não é a única coisa que um programador deve saber para ter destaque na profissão. 
+
+<br>
+<img height="40" src=https://s3.amazonaws.com/thinkific-import/220759/OSkIXgBSMGsQ7XYX6bsI_LOGOTIPO-CODER-FUNDOTRANSPARENTE-PRETA.png /><p>
+
+A [Cod3r](https://www.cod3r.com.br/) se preocupa com o seu futuro e oferece os melhores cursos nas principais tecnologias com excelência. Os nossos professores e métodos te darão a base e os fundamentos para você aprender os porquês e trilhar os caminhos do sucesso.
