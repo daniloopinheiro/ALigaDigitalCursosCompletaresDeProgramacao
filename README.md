@@ -23,7 +23,7 @@ A [Softblue](https://www.softblue.com.br/)
 surgiu em 2003 para atender a demanda de mercado, que buscava soluções web inteligentes. Rapidamente o negócio se expandiu e possibilitou aos fundadores compartilharem todo o conhecimento que possuem em programação através de cursos online.
 
 <br>
-<img height="70" src=https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk /><p>
+<img height="70" src=https://hermes.digitalinnovation.one/assets/diome/logo.png ><p>
 
 [DigitalInnovationOne](https://digitalinnovation.one/)
 somos a maior comunidade educacional gratuita para desenvolvedores de software aprender, praticar e se conectar com grandes oportunidades. Através da nossa inovadora plataforma centrada no protagonismo e na coaprendizagem em comunidade, especialistas das empresas mais inovadoras do mercado compartilham conhecimento e criam experiências práticas de aprendizagem que potencializam os talentos de forma rápida, eficiente e divertida.
