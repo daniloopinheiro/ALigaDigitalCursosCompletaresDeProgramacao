@@ -9,7 +9,7 @@ nasceu da Caelum, uma renomada escola de tecnologia e inovação. Os fundadores,
 
 
 <br>
-<img height="70" src=http://arquivo.devmedia.com.br/marketing/img/logo-devmedia.png /><p>
+<img height="70" src=https://media.licdn.com/dms/image/v2/C4D0BAQHLWGq5Xb46cQ/company-logo_200_200/company-logo_200_200/0/1631346857016?e=2147483647&v=beta&t=fdO1_meL3pkBvi96sCHjSAvvjzL_K8iXuugYor9MGnE /><p>
 
 A [DevMedia](https://www.schoolofnet.com/)
 é a maior Plataforma para desenvolvedores de software em língua portuguesa. 
